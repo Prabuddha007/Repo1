@@ -1,0 +1,2 @@
+This is the Sub-branch called as slave"
+everything like versioning and updates will happen here 
